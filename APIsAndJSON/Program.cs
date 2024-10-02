@@ -11,6 +11,8 @@ namespace APIsAndJSON
                 QuoteGenerator.KanyeQuote();
                 QuoteGenerator.RonQuote();
             }
+
+            OpenWeatherMapAPI.getWeather();
         }
     }
 }
